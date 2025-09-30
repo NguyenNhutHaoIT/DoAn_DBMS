@@ -1,0 +1,524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nam3\\DoAn\\ProjectDBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|d:\\nam3\\doan\\projectdbms\\projectdbms\\dal\\dbconncet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\dal\\dbconncet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\dal\\monhocdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\dal\\monhocdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\dal\\phancongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\dal\\phancongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\dal\\lophocdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\dal\\lophocdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|d:\\nam3\\doan\\projectdbms\\projectdbms\\ui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\giaoviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\giaoviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\giaoviencontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\giaoviencontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmgiaovienedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmgiaovienedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\dal\\giaoviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\dal\\giaoviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmgiaovienedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmgiaovienedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\giaoviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\giaoviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\taikhoanrolecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\taikhoanrolecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\dal\\taikhoanroledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\dal\\taikhoanroledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\phancongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\phancongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmphancongedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmphancongedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\phancongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\phancongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmphancongedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmphancongedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\lophoccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\lophoccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmmonhocedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmmonhocedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\taikhoanrolecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\taikhoanrolecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\monhoccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\monhoccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\control\\taikhoanrolecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\control\\taikhoanrolecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmtaikhoanedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmtaikhoanedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmtaikhoanedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmtaikhoanedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|D:\\nam3\\DoAn\\ProjectDBMS\\projectdbms\\ui\\forms\\frmtaikhoanedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF895BF-FE8E-4C3D-8CE5-B216B691AB1D}|ProjectDBMS\\ProjectDBMS.csproj|solutionrelative:projectdbms\\ui\\forms\\frmtaikhoanedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConncet.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\DBConncet.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\DAL\\DBConncet.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\DBConncet.cs",
+              "RelativeToolTip": "ProjectDBMS\\DAL\\DBConncet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:20:23.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Admin.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Admin.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Admin.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:52:33.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GiaoVienControl.Designer.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\GiaoVienControl.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\GiaoVienControl.Designer.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\GiaoVienControl.Designer.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\GiaoVienControl.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwHIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:54:29.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhanCongDAL.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\PhanCongDAL.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\DAL\\PhanCongDAL.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\PhanCongDAL.cs",
+              "RelativeToolTip": "ProjectDBMS\\DAL\\PhanCongDAL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:53:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonHocDAL.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\MonHocDAL.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\DAL\\MonHocDAL.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\MonHocDAL.cs",
+              "RelativeToolTip": "ProjectDBMS\\DAL\\MonHocDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:53:05.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LopHocDAL.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\LopHocDAL.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\DAL\\LopHocDAL.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\LopHocDAL.cs",
+              "RelativeToolTip": "ProjectDBMS\\DAL\\LopHocDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:48:45.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\Program.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\Program.cs",
+              "RelativeToolTip": "ProjectDBMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:43:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Admin.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Admin.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Admin.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Admin.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:48:47.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiaoVienControl.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\GiaoVienControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\GiaoVienControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\GiaoVienControl.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\GiaoVienControl.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:48:44.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmGiaoVienEdit.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:49:40.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GiaoVienDAL.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\GiaoVienDAL.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\DAL\\GiaoVienDAL.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\GiaoVienDAL.cs",
+              "RelativeToolTip": "ProjectDBMS\\DAL\\GiaoVienDAL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:48:55.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmGiaoVienEdit.Designer.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.Designer.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.Designer.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Forms\\FrmGiaoVienEdit.Designer.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAkwHcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:56:17.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GiaoVienControl.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\GiaoVienControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\GiaoVienControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\GiaoVienControl.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\GiaoVienControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:54:19.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaiKhoanRoleControl.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:46:42.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaiKhoanRoleDAL.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\TaiKhoanRoleDAL.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\DAL\\TaiKhoanRoleDAL.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\DAL\\TaiKhoanRoleDAL.cs",
+              "RelativeToolTip": "ProjectDBMS\\DAL\\TaiKhoanRoleDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:45:50.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhanCongControl.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\PhanCongControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\PhanCongControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\PhanCongControl.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\PhanCongControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:26:47.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPhanCongEdit.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:28:35.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhanCongControl.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\PhanCongControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\PhanCongControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\PhanCongControl.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\PhanCongControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:55:31.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmPhanCongEdit.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Forms\\FrmPhanCongEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:30:49.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Login.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:23:46.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LopHocControl.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\LopHocControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\LopHocControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\LopHocControl.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\LopHocControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:55:06.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\App.config",
+              "RelativeDocumentMoniker": "ProjectDBMS\\App.config",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\App.config",
+              "RelativeToolTip": "ProjectDBMS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-29T18:42:56.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmMonHocEdit.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmMonHocEdit.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmMonHocEdit.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmMonHocEdit.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Forms\\FrmMonHocEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:19:09.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaiKhoanRoleControl.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:46:48.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Login.Designer.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Login.Designer.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:00:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MonHocControl.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\MonHocControl.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\MonHocControl.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\MonHocControl.cs [Design]",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\MonHocControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:55:19.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaiKhoanRoleControl.Designer.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.Designer.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.Designer.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Control\\TaiKhoanRoleControl.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:47:14.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmTaiKhoanEdit.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:48:01.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmTaiKhoanEdit.Designer.cs",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.Designer.cs",
+              "ToolTip": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.Designer.cs",
+              "RelativeToolTip": "ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:48:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmTaiKhoanEdit.cs [Design]",
+              "DocumentMoniker": "D:\\nam3\\DoAn\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs",
+              "RelativeDocumentMoniker": "ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs",
+              "ToolTip": "D:\\Ki1_Nam3\\HQTcsdl\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Ki1_Nam3\\HQTcsdl\\ProjectDBMS\\ProjectDBMS\\UI\\Forms\\FrmTaiKhoanEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:47:56.735Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
